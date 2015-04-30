@@ -1,3 +1,9 @@
+require_relative 'sudoku'
+require 'pry'
+
 class Solver
-  # your excellent code here
+
+  def solve
+    # "solve the puzzle"
+  end
 end
